@@ -5,7 +5,8 @@
 Predicting heart-disease risk from routine clinical measurements using **only classical Machine
 Learning algorithms** (no deep learning), and explaining *why* each prediction is made.
 
-
+ NAME:- MD WAHID RAHAMAN
+ ROLL:- 35530824070
 ---
 
 ## 1. Problem Statement & Objectives
